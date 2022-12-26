@@ -45,4 +45,27 @@
 
 ## Картинки
 
+Картинка без `alt` текста
+
+![](https://th.bing.com/th/id/OIP.V_oDtpLeduIYYgUnwzev3gHaEK?pid=ImgDet&rs=1)
+
+Картинка с альтом и тайтлом:
+
+![котики](https://minutapozitiva.ru/wp-content/uploads/2018/02/smeshnoj-kot.jpg "и тут котики")
+
+Запомнить просто: синтаксис как у ссылок, только перед
+открывающей квадратной скобкой ставится восклицательный
+знак.
+
+Картинки «сноски»:
+
+![просто енот][image1]
+
+[image1]: https://th.bing.com/th/id/R.23e05bfb3a1276841b51d95fa473b76d?rik=LxUscc844ZBpbw&riu=http%3a%2f%2fbipbap.ru%2fwp-content%2fuploads%2f2017%2f11%2fKrutye-kartinki-na-avu-dlya-patsanov-klassnye-foto-i-kartinki-na-avu-16.jpg&ehk=gRcJlD6FJoF6sd%2fXUVEmUUMA28zfmc3Nr5d1o8Zw4X8%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1
+
+Картинки-ссылки:
+
+[![Пример ALT text](https://ahrefs.com/blog/wp-content/uploads/2020/03/fb-alt-text.png)]
+
+
 ## Таблицы
